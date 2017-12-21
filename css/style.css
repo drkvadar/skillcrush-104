@@ -9470,3 +9470,50 @@ font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     padding: 2em;
 }
+
+/*** LORI'S ADVICE ***/
+
+.loripopo-advice h1{
+  font-family: gill sans, sans-serif;
+  font-size: 30px;
+  color: #f93943;
+  text-align: center;
+}
+
+.loripopo-advice h4{
+  font-family: fantasy, serif;
+  font-size: 36px;
+  color: #93CFEF;
+  font-variant: small-caps;
+}
+
+.loripopo-advice p{
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
+  color: #44539e;
+  line-height: 28px;
+}
+
+
+/* End Biskitcrumb's Styles */
+
+/***** Start Melanie's Styles *****/
+
+.melaniejansen-advice h1 {
+	font-size: 16px;
+	text-align: center;
+	color: #ff4500;
+}
+.melaniejansen-advice h4 {
+	font-size: 12px;
+	text-transform: uppercase;
+}
+/***** End Melanie's Styles *****/
+
+.loripopo-advice footer p{
+  font-family: gill sans, sans-serif;
+  font-size: 12px;
+  color: #f93943;
+  line-height: 42px;
+}
+
