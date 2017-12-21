@@ -1,0 +1,26 @@
+.rodney-advice {
+  background: #1509f9;
+}
+
+.rodney-advice h1{
+color: #fff;
+text-align: center;
+font-family: bitter;
+padding-bottom: 20px;
+}
+
+.advice h4{
+  color: #fff;
+  font-family: bitter;
+  width: 50%;
+  padding-bottom: 10px;
+}
+
+.advice p{
+  color: #f00a0a;
+  width: 50%;
+}
+
+footer{
+  color: #fff;
+}
